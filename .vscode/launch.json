@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run Lab 01",
+      "request": "launch",
+      "mainClass": "app.Main", // Якщо у вас є LAB_01, залиште це
+      "projectName": "LAB_01"
+    },
+    {
+      "type": "java",
+      "name": "Run Conditioner (Lab 2)",
+      "request": "launch",
+      "mainClass": "KI_301.Shamryk.Lab2.ConditionerDriver",
+      "projectName": "LAB_02"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"KI_301.Shamryk.Lab2"},{"l":"KI_301.Shamryk.Lab2.components"},{"l":"KI_301.Shamryk.Lab2.enums"}];updateSearchResults();
